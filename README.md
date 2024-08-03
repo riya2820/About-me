@@ -1,4 +1,4 @@
-# Riya's Professional Portfolio
+# Professional Portfolio
 
 🌟 Hi, I'm Riya! 
 
@@ -32,10 +32,6 @@ I've also had the opportunity to work on various machine learning projects, wher
 - Created a neural network using TensorFlow for text classification.
 - Deployed the chatbot to the company website, achieving up to 84% accuracy on test data.
 
-
-## Experience
-- **Jr Data Engineer** at Stanford University Information Technology
-  - Detailed description of your role, responsibilities, and achievements.
 
 
 ## Contact

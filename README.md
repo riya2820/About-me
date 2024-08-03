@@ -7,7 +7,7 @@ I work as a Data Engineer at Stanford University Information Technology, special
 I've also had the opportunity to work on various machine learning projects, where I leverage data to uncover insights and drive decision-making.
 
 ## Skills
-- **📚 Programming Languages**: Python, C++, SQL
+- ** Programming Languages**: Python, C++, SQL
 - **Frameworks**: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Keras, matplotlib, Seaborn
 - **Technologies**: AWS (Lambda, Redshift, S3, Kubernetes, EC2, Quicksight), Docker, Git, SQL, MongoDB, Airflow
 - **🔧 Tool/IDEs**: Visual Studio Code, PyCharm, JetBrains IntelliJ, Eclipse, Pytest, GTest
@@ -34,7 +34,7 @@ I've also had the opportunity to work on various machine learning projects, wher
 
 
 
-##🔗 Contact
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/riyasjoshi/)
 - [GitHub](https://github.com/riya2820)
 - [Email](mailto:riya2820@gmail.com)
